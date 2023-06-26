@@ -5,6 +5,7 @@
 1. 方向: https://oi-wiki.org/
 2. 学习: https://www.acwing.com/
 3. 实战: https://leetcode.cn/
+4. 膜拜: https://github.com/Jack-Cherish
 
 
 
