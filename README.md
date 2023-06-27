@@ -13,14 +13,14 @@
 
 #### 排序
 
-1. 快速排序
+1. [快速排序](https://github.com/XBoom/Algorithms/blob/main/Sort/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F.md)
 2. 堆排序
 
 
 
 ### 练习
 
-1. 两数之和
+1. [两数之和](https://github.com/XBoom/Algorithms/blob/main/Array/Easy/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 
 
 
