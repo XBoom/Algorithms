@@ -15,7 +15,7 @@
 
 1. [快速排序](https://github.com/XBoom/Algorithms/blob/main/Sort/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F.md)
 2. [归并排序](https://github.com/XBoom/Algorithms/blob/main/Sort/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F.md)
-3. 堆排序
+3. [堆排序](https://github.com/XBoom/Algorithms/blob/main/Sort/%E5%A0%86%E6%8E%92%E5%BA%8F.md)
 
 
 
