@@ -6,6 +6,7 @@
 2. 学习: https://www.acwing.com/
 3. 实战: https://leetcode.cn/
 4. 膜拜: https://github.com/Jack-Cherish
+5. 自己: https://github.com/XBoom/Algorithms
 
 
 
@@ -16,8 +17,8 @@
 1. [快速排序](https://github.com/XBoom/Algorithms/blob/main/Sort/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F.md)
 2. [归并排序](https://github.com/XBoom/Algorithms/blob/main/Sort/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F.md)
 3. [堆排序](https://github.com/XBoom/Algorithms/blob/main/Sort/%E5%A0%86%E6%8E%92%E5%BA%8F.md)
-4. 选择排序
-5. 冒泡排序
+4. [选择排序](https://github.com/XBoom/Algorithms/blob/main/Sort/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F.md)
+5. [冒泡排序](https://github.com/XBoom/Algorithms/blob/main/Sort/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.md)
 
 ### 链表
 
